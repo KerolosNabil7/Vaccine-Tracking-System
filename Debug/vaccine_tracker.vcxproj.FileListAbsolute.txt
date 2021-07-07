@@ -1,0 +1,3 @@
+C:\Users\-3en_7oras-\source\repos\vaccine_tracker\Debug\vaccine_tracker.exe
+C:\Users\kerol\Desktop\Database\vaccine_tracker\Debug\vaccine_tracker.exe
+C:\Users\-3en_7oras-\Desktop\vaccine_tracker\vaccine_tracker\Debug\vaccine_tracker.exe
